@@ -3,7 +3,12 @@
 - 🌱 I’m currently learning how to make a nice githb profile ^^
 - 📫 You can contact me here [Discord: captain motchy#6969]
 
-<!---
-mrmotchy/mrmotchy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Skills
+-talking lot of shit
+-YouTube
+-Python
+-Discord developing
+-more stuff...
+
+### Github Stats
+! [mr motchy's stats] (https://github-readme-stats.vercel.app/api?username=mr.motchy&show_icons=true&theme=radical)
