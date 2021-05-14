@@ -13,7 +13,7 @@
     
 <div align="center"><img src=""></div>
     
-## Hello, Im cpt.motchy <img src="https://imgur.com/a/dJSEBoN" width="30px">
+## Hello, Im cpt.motchy <img src="https://imgur.com/a/BWxxSlP" width="30px">
 
 ```js
 const Sudhan = {
