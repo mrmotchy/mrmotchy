@@ -59,7 +59,6 @@ JavaScript   10 mins         ░░░░░░░░░░░░░░░░░
 
 <details>
     <summary><b>GitHub</b> Activity</summary>
-    <img align="left" src="![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 "><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cptmotchy&theme=tokyonight&hide=batchfile">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=SudhanPlayz&theme=tokyonight">
 </details>
