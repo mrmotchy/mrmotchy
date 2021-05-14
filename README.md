@@ -11,7 +11,7 @@
     
 <h1 align="center">Who am I?</h1>
     
-<div align="center"><img src="https://github.com/SudhanPlayz/SudhanPlayz/raw/master/images/TopBanner.gif"></div>
+<div align="center"><img src=""></div>
     
 ## Hello, Im cpt.motchy <img src="https://imgur.com/a/dJSEBoN" width="30px">
 
