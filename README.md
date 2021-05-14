@@ -39,7 +39,7 @@ const cpt.motchy = {
 </div>
 
 ## How I became a developer?
-Check [How I became a developer by clicking here :)](https://github.com/SudhanPlayz/SudhanPlayz/blob/master/How%20I%20became%20a%20dev.md)
+Check [How I became a developer by clicking here :)](https://discord.gg/MtVHffTWhr)
 
 ## Stats
 <hr>
