@@ -11,9 +11,10 @@
     
 <h1 align="center">Who am I?</h1>
     
-<div align="center"><img src=""></div>
+<div align="center"><img src="https://github.com/mrmotchy/me/blob/main/Blue%20Video%20Gaming%20Facebook%20Cover.gif"></div>
     
-## Hello, Im cpt.motchy <img src="https://github.com/mrmotchy/me/blob/main/Blue%20Video%20Gaming%20Facebook%20Cover.gif" width="30px">
+## Hello, Im cpt.motchy <img src="https://raw.githubusercontent.com/SudhanPlayz/SudhanPlayz/master/images/WaveIcon.gif" width="30px">
+
 
 ```js
 const Sudhan = {
