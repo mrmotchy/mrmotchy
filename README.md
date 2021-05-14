@@ -17,18 +17,18 @@
 
 
 ```js
-const Sudhan = {
-    Age: 14,
-    Description: "I'm using typescript more these days",
-    FavouriteLanguage: "Javascript/Typescript",
-    OpenedIssues: 12,
-    OpenedPullRequests: 69,
-    TotalCommits: 2818,
+const cpt.motchy = {
+    Age: embed{error not public},
+    Description: "Use your Brain",
+    FavouriteLanguage: "Javascript; Python",
+    OpenedIssues: 18,
+    OpenedPullRequests: 34,
+    TotalCommits: 957,
     Repositories: {
-       Created: 50,
-       Contributed: 71
+       Created: 38,
+       Contributed: 91
     },
-    Stars: 281,
+    Stars: 835,
     FavouriteThings: ["GitHub <3", "VS Code", "A Potato PC with 50kbps internet", "Docker", "ParcelJS"]
 }; //I'm a Object. UwU
 ```
