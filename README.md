@@ -49,7 +49,7 @@ const cpt.motchy = {
     },
     Stars: 835,
     FavouriteThings: ["GitHub <3", "VS Code", "A Potato PC with 50kbps internet", "Docker", "ParcelJS"]
-}; //I'm a Object. UwU
+}; 
 ```
 <hr>
 <div align="center">
