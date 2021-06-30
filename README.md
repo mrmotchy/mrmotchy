@@ -64,7 +64,7 @@ Check [How I became a developer by clicking here :)](https://discord.gg/MtVHffTW
 <hr>
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=SudhanPlayz&theme=dracula"></div>
 
-![Profile Views]&nbsp;&nbsp;![Profile Followers](https://img.shields.io/badge/Followers-144-blueviolet)&nbsp;&nbsp;![Profile Following](https://img.shields.io/badge/Following-5-blueviolet)&nbsp;&nbsp;![Profile Stars](https://img.shields.io/badge/Stars-281-blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blueviolet)&nbsp;&nbsp;![Profile Followers](https://img.shields.io/badge/Followers-144-blueviolet)&nbsp;&nbsp;![Profile Following](https://img.shields.io/badge/Following-5-blueviolet)&nbsp;&nbsp;![Profile Stars](https://img.shields.io/badge/Stars-281-blueviolet)
 
 <!--START_SECTION:waka-->
 ```text
@@ -78,7 +78,7 @@ JavaScript   10 mins         ░░░░░░░░░░░░░░░░░
 
 <details>
     <summary><b>GitHub</b> Activity</summary>
-"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cptmotchy&theme=tokyonight&hide=batchfile">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrmotchy&theme=tokyonight">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=SudhanPlayz&theme=tokyonight">
 </details>
 <!-- Last updated on Fri May 14 2021 05:23:30 GMT+0000 (Coordinated Universal Time) ;-;-->
